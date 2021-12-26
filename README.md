@@ -20,7 +20,8 @@ OS 스케쥴러 간트차트 구현
 <img src="https://user-images.githubusercontent.com/59475849/147403238-ef818fec-a8ee-4cfe-afbb-d0965b2362e5.png">
 
 
-##실행화면
+
+## 실행화면
 
   - 프로세스 수 입력 창
   - <img src="https://user-images.githubusercontent.com/59475849/147403273-6241d231-380c-473a-8a83-3231a6d5575d.png">
